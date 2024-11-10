@@ -40,7 +40,5 @@ $ git clone https://github.com/nguyentuanninh/library-management-system.git
 ````bash
     private final String password = "12345678";
 ````
-3. Run file DBScript.sql
-<br/>
-<img width="1604" src="./screen/Database.png">
+
 
